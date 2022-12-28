@@ -1,3 +1,5 @@
+#記得改your mail、your password
+
 import smtplib
 from email import encoders
 from email.mime.text import MIMEText
